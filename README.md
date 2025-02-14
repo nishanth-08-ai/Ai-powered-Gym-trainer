@@ -3,7 +3,6 @@
 ## Overview  
 StrideSync is an AI-powered fitness tracking system integrating **computer vision**, **machine learning**, and **natural language processing (NLP)** to provide:  
 - **Real-time exercise monitoring & form validation**  
-- **BMI calculation & personalized workout plans**  
 - **Food composition analysis using YOLOv8**  
 - **AI Chatbot for fitness & nutrition guidance**  
 
@@ -18,10 +17,6 @@ StrideSync is an AI-powered fitness tracking system integrating **computer visio
 - **YOLOv8-based object detection** for food recognition.  
 - **Nutritional breakdown** (calories, protein, fats, carbs) based on weight input.  
 - **Interactive Web UI** displaying food composition using Chart.js.  
-
-### 🏋️ BMI Calculator & Workout Plans  
-- **BMI calculation** based on height and weight input.  
-- **Personalized workout recommendations** based on BMI category.  
 
 ### 🤖 AI Chatbot for Fitness Guidance  
 - **NLP-based chatbot** trained on fitness and nutrition-related queries.  
