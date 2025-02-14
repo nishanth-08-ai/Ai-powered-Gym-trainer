@@ -24,7 +24,7 @@ StrideSync is an AI-powered fitness tracking system integrating **computer visio
 - **Nutritional breakdown** (calories, protein, fats, carbs) based on weight input.  
 - **Interactive Web UI** displaying food composition using Chart.js.  
 
-![Food Analysis](images/food_analysis.png)  
+![Food Analysis](images/food_analysis.png.jpg)  
 
 ---
 
