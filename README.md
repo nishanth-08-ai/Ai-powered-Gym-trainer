@@ -72,8 +72,8 @@ The **food detection YOLOv8 model** was trained in Google Colab, and the **best.
 
 ### 🔹 Clone the Repository  
 ```sh
-git clone https://github.com/your-username/StrideSync.git
-cd StrideSync
+git clone https://github.com/nishanth-08-ai/Ai-powered-Gym-trainer.git
+cd Ai-powered-Gym-trainer
 
 ---
 
